@@ -1,5 +1,7 @@
 # demo_git
 Une demo de git
-qui se passe bien
+qui se passe bie
 
 Et maintenant on modifie depuis GITHUB
+
+mais aussi depuis ma machine
